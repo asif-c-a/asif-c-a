@@ -3,13 +3,14 @@ Code meets caffeine struck sleep deprived student.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 April 2025 - To: 30 April 2025
+From: 28 April 2025 - To: 02 May 2025
 
-Total Time: 3 hrs 58 mins
+Total Time: 6 hrs 22 mins
 
-JavaScript   1 hr 41 mins    >>>>>>>>>>>--------------   42.67 %
-HTML         1 hr 23 mins    >>>>>>>>>----------------   35.11 %
-CSS          52 mins         >>>>>>-------------------   22.23 %
+JavaScript   2 hrs 3 mins    >>>>>>>>-----------------   32.42 %
+CSS          1 hr 40 mins    >>>>>>>------------------   26.28 %
+HTML         1 hr 33 mins    >>>>>>-------------------   24.37 %
+GDScript3    1 hr 4 mins     >>>>---------------------   16.93 %
 ```
 
 <!--END_SECTION:waka-->
