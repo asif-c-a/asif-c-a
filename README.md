@@ -3,7 +3,7 @@ Code meets caffeine struck sleep deprived student.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 April 2025 - To: 28 May 2025
+From: 28 April 2025 - To: 29 May 2025
 
 Total Time: 24 hrs 13 mins
 
